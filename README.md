@@ -1,7 +1,3 @@
-Here's a more concise version of your project description:  
-
----
-
 ### Real-Time Data Ingestion & Processing Pipeline with Azure  
 
 This project demonstrates a real-time data pipeline using Microsoft Azure. The key components include:  
@@ -17,4 +13,3 @@ The data flows from the Python script to Event Hub, then gets processed via ASA,
 
 ---
 
-This keeps it concise while maintaining clarity. Let me know if you want any further tweaks! 🚀
